@@ -5,7 +5,11 @@ The classic snake game where the snake eats the food and grows longer. The game 
 
 ## Getting Started
 
-![Collision with border](https://media.giphy.com/media/0NCJXGzAE3j9ADyGFq/giphy.gif)
+
+<img src="https://media.giphy.com/media/0NCJXGzAE3j9ADyGFq/giphy.gif" width="200" height="200" />
+
+<img src="https://media.giphy.com/media/2LkO4APB9hvXWuXc8D/giphy.gif" width="200" height="200" />
+
 
 
 
