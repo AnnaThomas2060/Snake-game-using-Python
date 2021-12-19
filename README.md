@@ -6,22 +6,19 @@ The classic snake game where the snake eats the food and grows longer. The game 
 ## Getting Started
 
 
+### Snake colliding with border
+
 <img src="https://media.giphy.com/media/0NCJXGzAE3j9ADyGFq/giphy.gif" width="200" height="200" />
 
-<img src="https://media.giphy.com/media/2LkO4APB9hvXWuXc8D/giphy.gif" width="200" height="200" />
+### Snake colliding with itself
+
+<img src="https://media.giphy.com/media/yQgUUOKehiqTiROVYt/giphy.gif" width="200" height="200" />
 
 
 
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+Python, turtle module
 
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
